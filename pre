@@ -1,0 +1,5 @@
+AEVO_API_KEY="your_aevo_api_key_here"
+AEVO_API_SECRET="your_aevo_api_secret_here"
+AEVO_SIGNING_KEY="your_signing_private_key_here"
+AEVO_WALLET_ADDRESS="your_wallet_address_here"
+AEVO_ENV="testnet"
